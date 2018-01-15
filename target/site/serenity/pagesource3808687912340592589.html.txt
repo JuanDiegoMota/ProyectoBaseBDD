@@ -1,0 +1,151 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en_US" lang="en_US"><head>
+<title>(Entrar a Planet) WebHome &lt; Main &lt; Planet</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="icon" href="http://planet.choucairtesting.com/pub/System/LogosChoucair/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://planet.choucairtesting.com/pub/System/LogosChoucair/favicon.ico" type="image/x-icon" />
+<link rel="alternate" href="http://planet.choucairtesting.com/bin/edit/Main/WebHome?_T=2017/12/14" type="application/x-wiki" title="edit WebHome" />
+<meta name="WEBTOPIC" content="WebHome" />
+<meta name="WEB" content="Main" />
+<meta name="SCRIPTURLPATH" content="/bin" />
+<meta name="SCRIPTSUFFIX" content="" />
+<meta name="TEXT_JUMP" content="Ir a" />
+<meta name="TEXT_SEARCH" content="Buscar" />
+<meta name="TEXT_NUM_TOPICS" content="Número de temas:" />
+<meta name="TEXT_MODIFY_SEARCH" content="Modificar búsqueda" />
+<meta name="robots" content="noindex" /><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/bin/view/Main/WebRss" />
+<base href="http://planet.choucairtesting.com/bin/login/Main/WebHome" />
+
+<!--BEHAVIOURCONTRIB--><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="/pub/System/BehaviourContrib/behaviour.compressed.js"></script>
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikilib.js"></script>
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiWindow.js"></script>
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiEvent.js"></script>
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiHTML.js"></script>
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiCSS.js"></script>
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiForm.js"></script>
+<script type="text/javascript" src="/pub/System/PatternSkin/pattern.js"></script><style type="text/css" media="all">
+@import url('/pub/System/SkinTemplates/base.css');
+</style>
+<style type="text/css" media="all">
+@import url('/pub/System/PatternSkinChoucair/layout.css');
+@import url('/pub/System/PatternSkinChoucair/style.css');
+@import url('/pub/System/PatternSkinChoucair/colors.css');
+</style>
+<style type="text/css" media="all">
+@import url('/pub/System/PatternSkinChoucair/column_left.css');
+@import url('/pub/System/PatternSkinChoucair/theme_foswiki_noframe.css');
+</style><style type="text/css" media="all">
+	/* Styles that are set using variables */
+	.patternBookView .foswikiTopRow,
+	.patternWebIndicator a img,
+	.patternWebIndicator a:hover img {
+		background-color:#065168;
+	}
+	
+
+.patternBookView {
+	border-color:#065168;
+}
+.patternPreviewPage #patternMain {
+	/* uncomment to set the preview image */
+	/*background-image:url("/pub/System/PreviewBackground/preview2bg.gif");*/
+}
+</style>
+<style type="text/css" media="all">
+	@import url("/pub/System/PatternSkin/print.css");
+</style>
+<!--[if IE]><style type="text/css" media="screen">
+pre {
+	height:1%;
+	overflow-x:auto;
+}
+</style>
+<![endif]-->
+
+<script type="text/javascript" src="/pub/System/JavascriptFiles/foswikiStyles.js"></script><style type="text/css" media="all">.foswikiMakeVisible{display:inline;}.foswikiMakeVisibleInline{display:inline;}.foswikiMakeVisibleBlock{display:block;}.foswikiMakeHidden{display:none;}</style>
+<!--GENERATED_HEADERS--><!-- FOSWIKI STRIKE ONE --> <script type="text/javascript" src="/pub/System/JavascriptFiles/strikeone.js"></script>
+<style type="text/css" media="all">
+@import url("http://planet.choucairtesting.com/pub/System/TwistyPlugin/twisty.css");
+</style>
+<script type="text/javascript" src="http://planet.choucairtesting.com/pub/System/JavascriptFiles/foswikiPref.js"></script>
+<script type="text/javascript" src="http://planet.choucairtesting.com/pub/System/JavascriptFiles/foswikiCSS.js"></script>
+<script type="text/javascript" src="http://planet.choucairtesting.com/pub/System/TwistyPlugin/twisty.js"></script>
+<script type="text/javascript" src="http://planet.choucairtesting.com/pub/System/JavascriptFiles/foswikiStyles.js"></script><style type="text/css" media="all">.foswikiMakeVisible{display:inline;}.foswikiMakeVisibleInline{display:inline;}.foswikiMakeVisibleBlock{display:block;}.foswikiMakeHidden{display:none;}</style> <!-- <span class="foswikiNewLink">TwistyPlugin<a href="/bin/edit/Main/TwistyPlugin?topicparent=Main.WebHome" rel="nofollow" title="Crear este tema">?</a></span> -->
+<link rel="stylesheet" href="/pub/System/EditChapterPlugin/ecpstyles.css" type="text/css" media="all" /> <!-- EDITCHAPTERPLUGIN -->
+<meta name="foswiki.PUBURL" content="http://planet.choucairtesting.com/pub" /> <!-- PUBURL -->
+<meta name="foswiki.PUBURLPATH" content="/pub" /> <!-- PUBURLPATH -->
+<meta name="foswiki.SCRIPTSUFFIX" content="" /> <!-- SCRIPTSUFFIX -->
+<meta name="foswiki.SCRIPTURL" content="http://planet.choucairtesting.com/bin" /> <!-- SCRIPTURL -->
+<meta name="foswiki.SCRIPTURLPATH" content="/bin" /> <!-- SCRIPTURLPATH -->
+<meta name="foswiki.SERVERTIME" content="2017/12/14%20-%2017:41" /> <!-- SERVERTIME -->
+<meta name="foswiki.SKIN" content="choucair%2cpattern" /> <!-- SKIN -->
+<meta name="foswiki.SYSTEMWEB" content="System" /> <!-- SYSTEMWEB -->
+<meta name="foswiki.TOPIC" content="WebHome" /> <!-- TOPIC -->
+<meta name="foswiki.USERNAME" content="guest" /> <!-- USERNAME -->
+<meta name="foswiki.USERSWEB" content="Main" /> <!-- USERSWEB -->
+<meta name="foswiki.WEB" content="Main" /> <!-- WEB -->
+<meta name="foswiki.WIKINAME" content="WikiGuest" /> <!-- WIKINAME -->
+<meta name="foswiki.WIKIUSERNAME" content="Main.WikiGuest" /> <!-- WIKIUSERNAME -->
+<meta name="foswiki.NAMEFILTER" content="%5b%5cs%5c*%3f~%5e%5c%24%40%25%22'%26%3b%7c%3c%3e%5c%5b%5c%5d%5cx00-%5cx1f%5d" /> <!-- NAMEFILTER -->
+<meta name="foswiki.TWISTYANIMATIONSPEED" content="%25TWISTYANIMATIONSPEED%25" /> <!-- TWISTYANIMATIONSPEED --> <!-- JQUERYPLUGIN::FOSWIKI::META -->
+<script type="text/javascript" src="/pub/System/JQueryPlugin/jquery-1.3.2.js"></script> <!-- JQUERYPLUGIN -->
+<script type="text/javascript" src="/pub/System/JQueryPlugin/plugins/livequery/jquery.livequery.js?version=1.1.1"></script> <!-- JQUERYPLUGIN::LIVEQUERY -->
+<script type="text/javascript" src="/pub/System/JQueryPlugin/plugins/foswiki/jquery.foswiki.js?version=2.01"></script> <!-- JQUERYPLUGIN::FOSWIKI -->
+<script type="text/javascript" src="/pub/System/JQueryPlugin/plugins/bgiframe/jquery.bgiframe.js?version=2.1.2"></script> <!-- JQUERYPLUGIN::BGIFRAME -->
+<script type="text/javascript" src="/pub/System/JQueryPlugin/plugins/easing/jquery.easing.js?version=1.3"></script> <!-- JQUERYPLUGIN::EASING -->
+</head><body class="patternNoViewPage patternLoginPage foswikiJs">
+<a name="PageTop"></a><div class="foswikiPage"><div id="patternScreen">
+<div id="patternPageShadow">
+<div id="patternPage">
+<div id="patternOuter">
+<div id="patternFloatWrap">
+<div id="patternMain">
+<div id="patternMainContents"><div class="patternSimpleLogo"><img src="http://planet.choucairtesting.com/pub/System/LogosChoucair/logochoucair.jpg" border="0" alt="Powered by Foswiki, The Free and Open Source Wiki" /></div><div class="foswikiTopic"><h1 class="patternTemplateTitle"></h1> <div id="foswikiLogin">
+<div class="foswikiFormSteps"><form action="/bin/login/Main/WebHome" name="loginform" method="post" onsubmit="foswikiStrikeOne(this)"><input type="hidden" name="validation_key" value="?2688e44703415842cdb6d188dee4af67" /><div class="foswikiFormStep">
+<h2><a name="Por_favor_introduzca_su_nombre_d"></a> Por favor introduzca su nombre de usuario y contraseña </h2>
+<div style="display:block;">
+</div>
+</div><!-- /foswikiFormStep-->
+<div class="foswikiFormStep">
+<span class="foswikiActionFormStepSign">►</span><h3><a name="Nombre_de_usuario"></a> Nombre de usuario </h3>
+<p>
+<input tabindex="1" type="text" class="foswikiInputField foswikiFocus" size="40" name="username" value="" /> <span class="twistyPlugin foswikiMakeVisibleInline"><span id="loginhelpshow" class="twistyRememberSetting twistyTrigger foswikiUnvisited twistyInited"><a href="#"><span class="foswikiLinkLabel foswikiUnvisited">Ayuda</span></a></span><span id="loginhelphide" class="twistyRememberSetting twistyTrigger foswikiUnvisited twistyHidden twistyInited"><a href="#"><span class="foswikiLinkLabel foswikiUnvisited">Ocultar ayuda</span></a></span></span><!--/twistyPlugin foswikiMakeVisibleInline--></p><div class="twistyPlugin"><div id="loginhelptoggle" class="foswikiHelp twistyContent twistyInited twistyHidden">Enter your <a href="/bin/view/System/LoginName">LoginName</a>. (Typically First name and last name, no space, no dots, capitalized, e.g. JohnSmith, unless you chose otherwise). Visit <a href="/bin/view/System/UserRegistration">UserRegistration</a> if you do not have one.</div></div><!--/twistyPlugin-->
+<p>
+</p></div><!-- /foswikiFormStep--><div class="foswikiFormStep">
+<p>
+</p><span class="foswikiActionFormStepSign">►</span><h3><a name="Contrase_a"></a> Contraseña </h3>
+<p>
+<input tabindex="2" type="password" class="foswikiInputField" size="40" name="password" value="" /> <span class="foswikiUnvisited"><a href="/bin/view/System/ResetPassword">Se me olvidó mi contraseña</a></span>
+</p><p>
+</p><p>
+</p></div><!-- /foswikiFormStep--><div class="foswikiFormStep"><input tabindex="4" type="submit" class="foswikiSubmit" value="Iniciar" /></div><!-- /foswikiFormStep-->
+
+
+<input type="hidden" name="origurl" value="/" /></form>
+<div class="foswikiFormStep foswikiGrayText foswikiLast">  Si tiene alguna duda, favor comunicarse con <a href="mailto:planetadmin@choucairtesting.com">planetadmin@choucairtesting.com</a>  </div><!-- /foswikiFormStep-->
+</div><!-- /foswikiFormSteps-->
+<p>
+</p></div><!-- /foswikiLogin--></div><!-- /foswikiTopic-->
+</div><!-- /patternMainContents-->
+</div><!-- /patternMain-->
+</div><!-- /patternFloatWrap-->
+<div class="clear"> </div>
+</div><!-- /patternOuter--><div id="patternBottomBar"></div><!-- /patternBottomBar-->
+</div><!-- /patternPage-->
+</div><!-- /patternPageShadow-->
+</div><!-- /patternScreen-->
+</div><!-- /foswikiPage--><!-- GOOGLEANALYTICSPLUGIN --><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', "UA-23719701-1"]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+</body></html>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="2" failures="0" name="Búsqueda Empleado" skipped="0" tests="2" time="18.14" timestamp="2017-12-14T17:39:03.096-05:00[America/Bogota]"><testcase name="Buscar Analistas de Prueba"><error message="Unresolved compilation problems: &#10;&#9;The field LoginPlanetPage.txtUsuario is not visible&#10;&#9;The field LoginPlanetPage.txtPwd is not visible&#10;&#9;The field LoginPlanetPage.txtPwd is not visible&#10;" type="java.lang.Error">Unresolved compilation problems: 
+	The field LoginPlanetPage.txtUsuario is not visible
+	The field LoginPlanetPage.txtPwd is not visible
+	The field LoginPlanetPage.txtPwd is not visible
+</error><system-err>Unresolved compilation problems: 
+	The field LoginPlanetPage.txtUsuario is not visible
+	The field LoginPlanetPage.txtPwd is not visible
+	The field LoginPlanetPage.txtPwd is not visible
+&#13;
+com.choucair.formacion.steps.LoginPlanetSteps.IngresarDatos(LoginPlanetSteps.java:28)&#13;
+com.choucair.formacion.steps.LoginPlanetSteps.login_planet(LoginPlanetSteps.java:16)&#13;
+com.choucair.formacion.definition.BusquedaEmpleadoDefinition.me_logueo_al_aplicativo_planet_como_con_pass(BusquedaEmpleadoDefinition.java:27)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+</system-err></testcase><testcase name="Buscar Automatizadores"><error message="Unresolved compilation problems: &#10;&#9;The field LoginPlanetPage.txtUsuario is not visible&#10;&#9;The field LoginPlanetPage.txtPwd is not visible&#10;&#9;The field LoginPlanetPage.txtPwd is not visible&#10;" type="java.lang.Error">Unresolved compilation problems: 
+	The field LoginPlanetPage.txtUsuario is not visible
+	The field LoginPlanetPage.txtPwd is not visible
+	The field LoginPlanetPage.txtPwd is not visible
+</error><system-err>Unresolved compilation problems: 
+	The field LoginPlanetPage.txtUsuario is not visible
+	The field LoginPlanetPage.txtPwd is not visible
+	The field LoginPlanetPage.txtPwd is not visible
+&#13;
+com.choucair.formacion.steps.LoginPlanetSteps.IngresarDatos(LoginPlanetSteps.java:28)&#13;
+com.choucair.formacion.steps.LoginPlanetSteps.login_planet(LoginPlanetSteps.java:16)&#13;
+com.choucair.formacion.definition.BusquedaEmpleadoDefinition.me_logueo_al_aplicativo_planet_como_con_pass(BusquedaEmpleadoDefinition.java:27)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+</system-err></testcase></testsuite>

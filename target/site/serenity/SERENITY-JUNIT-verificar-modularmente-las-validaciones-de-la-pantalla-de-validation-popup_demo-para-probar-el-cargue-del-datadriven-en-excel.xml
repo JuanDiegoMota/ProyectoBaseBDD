@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Verificar modularmente las validaciones de la pantalla de Validation Popup" skipped="0" tests="1" time="9.15" timestamp="2017-12-21T16:50:54.684-05:00[America/Bogota]"><testcase name="Demo para probar el cargue del datadriven en Excel"><error message="sun.jdbc.odbc.JdbcOdbcDriver" type="java.lang.ClassNotFoundException">sun.jdbc.odbc.JdbcOdbcDriver</error><system-err>sun.jdbc.odbc.JdbcOdbcDriver&#13;
+com.choucair.formacion.definition.PopupValidationDefinition.cargar_Datos(PopupValidationDefinition.java:103)&#13;
+✽.Given Cargar Datos "src/test/resources/Datadriven/APP_SuraLogueo.xls"(src/test/resources/features/ColorLib/Forms/PopupValidation.feature:51)&#13;
+</system-err></testcase></testsuite>
